@@ -1,0 +1,7 @@
+{
+    "hellp":" ↓",
+    "access_key": "85366e695d9c644ef6",
+     "help":"装扮id在itemid.txt里 逐行填写         （35789=bug 摆"
+  }
+
+
